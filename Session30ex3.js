@@ -1,3 +1,4 @@
+
 let phones = [
     { id: 1, name: "iPhone 14", price: 20000000, quantity: 5, company: "Apple" },
     { id: 2, name: "Samsung Galaxy S25", price: 18000000, quantity: 7, company: "Samsung" },
